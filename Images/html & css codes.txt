@@ -1,0 +1,968 @@
+1, Inline Css
+<link rel="styleSheet" href="style.css">
+<h1 style="color: orange;background-color: violet;">Pradhap</h1>
+<h1 style="color: white;background-color: blue; ">India</h1>
+<h1 style="color: green;background-color: brown;">Street</h1>
+
+2, Internal css
+
+<style>
+div{
+    color: white;
+    background-color: red;
+    height: 100px;
+    width: 300px;
+}
+
+</style><div>
+<h2>Error Makes Clever</h2>
+<a href="https://www.pexels.com/search/laptop%20wallpaper/">Laptop</a>
+</div>
+
+3, TVK FLAG 
+
+<style>
+    h1{
+         border-color: red;
+         border-width: 20px;
+         border-style: solid;
+         padding: 50px;
+         background-color: yellow;
+         color: white ;
+    }
+</style>
+<center>
+<h1>Hello</h1>
+</center>
+
+3,ex1
+
+<style>
+    .one{
+  
+        height: 500px;
+        width: 500px;
+        background-color: black;
+        margin-left: 40px;
+        padding: 30px;
+    }
+    h1{
+        color: white;
+    }
+</style>
+<div class="one">
+ <h1>hi, how are you</h1> 
+</div>
+
+4,excersise 2
+<style>
+    div{
+  
+        height: 500px;
+        width: 500px;
+        background-color: black;
+        margin-left: 40px;
+        padding: 30px;
+        color:white;
+        border-style: solid;
+        border-color: red;
+        border-width: 5px;
+    }
+    
+</style>
+<div>
+ hi, how are you
+</div>
+
+5,
+
+<style>
+    .one{
+  
+        background-color: black;
+        color: yellow;
+        padding: 30px;
+    }
+    .two{
+        margin: 60px;
+        border-color: black;
+        border-style: solid ;
+        border-width: 3px;
+        color: black;
+        background-color: lightyellow;
+        padding: 50px;
+    }
+</style>
+<div class="one">
+    <center> Error Makes Clever</center>
+</div>
+<div class="two">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis soluta expedita nam, non qui vitae maiores eum, doloribus repudiandae quo maxime quibusdam perferendis ex sapiente earum nobis labore neque molestiae. Perspiciatis sit illo, reiciendis adipisci soluta esse quibusdam at cupiditate ipsum dolore facere amet consequuntur laboriosam voluptatum impedit tempora consectetur.</div>
+
+6,
+
+<style>
+     h1{
+    background-color: red;
+    display: inline;
+     }
+     h2{
+        background-color: lightseagreen;
+     }
+     div{
+        display: inline-block;
+        background-color: pink;
+        width: 500px;
+     }
+</style>
+<h1>Dell</h1>
+<h2>lenova</h2>
+<div>Ausu</div>
+
+7, perfume project html part
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1>perfume </h1>
+            <ul>
+                <li>
+                    Home | 
+                </li>
+                <li>
+                    products |
+                </li>
+                <li>
+                    About | 
+                </li>
+                <li> contact 
+                     </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="search">
+        <center>
+        <input placeholder="search">
+        </center>
+    </div>
+    <div class="products">
+        <div class="box1"> 
+                    <img src="C:\Users\HP\Downloads\perfume1.jpg" width="250px" height="250px">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi fuga sed velit iusto consectetur, in quam nemo.</p>
+        </div>
+        <div class="box2"> 
+                    <img src="C:\Users\HP\Downloads\perfume2.jpg" width="250px" height="250px">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi fuga sed velit iusto consectetur, in quam nemo.</p>
+        </div>
+        <div class="box3"> 
+                    <img src="C:\Users\HP\Downloads\perfume3.jpg" width="250px" height="250px">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi fuga sed velit iusto consectetur, in quam nemo.</p>
+        </div>
+    </div>
+    <div class="about">
+        <h1>About Us</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quas libero repellat voluptas, nam ab veniam voluptatibus aperiam, odio quidem id illo pariatur, magni ut quos atque tempora et impedit porro qui placeat nostrum dolore laboriosam! Odit officia debitis iure? Expedita hic architecto vel, aut in, sit cum placeat, sint consequuntur minus illo quia. Eveniet officiis dicta sit quae omnis aperiam corrupti aliquid aliquam nulla dolorem adipisci rem animi voluptate, provident reprehenderit incidunt est commodi deleniti esse quo pariatur. Dolore sequi pariatur amet? Reiciendis pariatur quidem atque minima rerum quibusdam voluptate repellendus optio, commodi, eligendi labore obcaecati nam officiis ad vel fugit aut laboriosam culpa? Exercitationem natus accusamus aliquid atque alias? Laboriosam, quasi cumque totam aliquam eum officiis similique id, veniam beatae facilis architecto. Corrupti deserunt obcaecati tempore minima pariatur, incidunt ipsam maxime placeat quidem minus expedita illo totam. Ab deserunt, nulla obcaecati distinctio maiores veniam eaque neque adipisci, omnis esse delectus vel quia possimus consectetur expedita rerum. Officia cupiditate error maiores ea eius aliquam. Laudantium aliquam, nostrum repellat, eaque qui aperiam fugiat ipsa iste accusantium ipsum nesciunt modi voluptatum maiores veritatis a, quam est eum sint. Delectus optio sapiente tenetur iure, accusantium animi harum mollitia fugit nulla soluta aperiam!</p>
+    </div>
+    <div class="contact">
+        <h1>Contact</h1>
+        <h2>+91 9827364839</h2>
+        <h2>perfume@gmail.com</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit aut ipsum odio rem quae, aliquam reprehenderit sed ad praesentium? Atque odio minus ad iusto optio tenetur, sed similique id magnam reprehenderit, maiores doloribus? Quo corrupti suscipit amet possimus quae itaque doloribus, necessitatibus reprehenderit aliquid id laudantium aspernatur. Sint quae accusantium commodi, eius consectetur, repellat corrupti pariatur atque recusandae ducimus error ratione fugit quidem quasi nobis minus. Earum, molestiae dolor fuga consectetur consequatur maxime similique saepe enim explicabo maiores ab dolorum! Natus, laboriosam, voluptas labore sapiente optio praesentium voluptate, blanditiis dolorem suscipit dignissimos earum non consequatur obcaecati error iste culpa officia omnis a maxime consequuntur eos vel. Nesciunt quae aspernatur expedita! Vero sint illo tempora maxime at incidunt fugit non, error ducimus magni dicta officia dignissimos quod sapiente soluta? Odio nostrum ipsum, eligendi ad a ab consectetur commodi aspernatur quia minus sint quod earum debitis quae optio perferendis cupiditate iste doloribus suscipit. Eos voluptas quisquam minima iste voluptatibus. Ipsa tenetur, maiores voluptatem veritatis impedit doloribus deleniti atque, dolore rerum assumenda reprehenderit vel eaque ducimus laudantium accusamus laborum, nesciunt laboriosam obcaecati ullam quod? Saepe, dolore nesciunt animi ex obcaecati ea accusamus temporibus hic modi in laboriosam praesentium doloremque pariatur maiores nemo est!</p>
+     </div>
+</body>
+</html>
+
+7b, perfume project css
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+li,ul,h1{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+  cursor: pointer;
+  color: gray;  
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    margin: 30px;
+    padding: 15px;
+}
+.box1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+     display: inline-block;
+    width: 250px;
+    margin-left: 20px;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    margin-left: 20px;
+}
+.box3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    margin-left: 20px;
+}
+.products{
+    text-align: center;
+    margin-top: 50px;
+}
+.box1:hover{
+    color: white;
+  background-color: black;
+}
+.box2:hover{
+    color: white;
+  background-color: black;
+}
+.box3:hover{
+    color: white;
+  background-color: black;
+}
+.about{
+    padding: 20px;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 300px;
+    width: 100%;
+}
+p{
+    padding-top: 40px;
+}
+
+8, practice
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header"><center><nav><h1>Reestar</h1></nav></center>
+    <ul>
+        <center>
+        <li>Home |</li>
+        <li>Registor |</li>
+        <li> Contect </li>
+        </center>
+    </ul>
+</div>
+<div class="products">
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\fruits1.jpg" height="250px" width="250px">
+        <p>Lorem ipsum dolor sit.</p>
+        <center>   <button type="button" onclick="alert('Added your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="noodles">
+        <img src="C:\Users\HP\Downloads\noodles1.jpg"  height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p></center>
+        <center>   <button type="button" onclick="alert('Added your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\meals1.jpg" height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p>
+            </center>
+            <center>   <button type="button" onclick="alert('Added Your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\parota1.jpg"  height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p></center>
+        <center>   <button type="button" onclick="alert('Added Your item')">Click Me!</button>
+</center>
+    </div>
+</div>
+<div class="contact">
+    <center><h1>contact</h1> <br>
+        <form>
+    
+        Name : <input type="text" placeholder="Name" /><br><br>
+        Age : <input type="number" placeholder="Age"/><br><br>
+        Email : <input type="text" placeholder="Email"/><br><br>
+   <button type="button" onclick="alert('Submitted Successfully')">Click Me!</button>
+    </center>
+    </form>
+</div>
+</body>
+</html>
+
+css part
+
+*{
+    background-color: rgb(243, 243, 178);
+}
+li:hover{
+    color: white;
+}
+.header{
+    text-align: center;
+}
+ul,li,h1{
+    display: inline-block;
+}
+ul{
+    text-align: center;
+    margin-top: 20px;
+}
+li{
+  cursor: pointer;
+  color: gray;  
+}
+.produts{
+    background-color: white;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+}
+.fruits{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.meals{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.noodles{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.parota{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+}
+
+9
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <center>
+      <h1>Error Makes Clever Academy 🚀</h1>
+      <br /><br />
+      <h3>Trainning | Tech News | Fresh Guides</h3>
+      <p>
+        Empowering young developers and levelup there skills through Trainningin
+        software development Technology 👨‍🎓
+      </p>
+    </center>
+    <hr />
+    <center>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/ezh7357UijU?si=LC6Agw8jc_kiuyxZ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+    </center>
+    <p>
+      Optio quo nisi qui. Eos explicabo non commodi delectus, perspiciatis natus
+      harum itaque fugiat esse, id quidem quo quibusdam quia. Obcaecati magni
+      quam, maiores ipsam ex earum a reprehenderit nisi impedit! Voluptas, quia
+      veritatis quo accusamus iusto architecto aspernatur inventore expedita
+      ducimus tempora ipsum sint doloribus eum voluptatum deleniti minus rerum
+      suscipit! Corrupti atque quisquam iste dolore! Molestias libero beatae
+      reprehenderit ipsam animi veritatis a nihil illo voluptatem. Ut dolorem,
+      cupiditate dolor repellat optio esse consectetur explicabo qui, ex impedit
+      nulla unde, a ipsum sapiente. Excepturi eos blanditiis temporibus cum
+      consequuntur cumque quas. Incidunt atque animi esse adipisci nobis!
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis at
+      molestiae libero iusto reiciendis rerum vitae. Perferendis nemo veritatis
+      consequatur alias culpa tempore, blanditiis doloribus libero sunt officiis
+      ipsum eius.
+    </p>
+    <h3>Let's divided the full stack into three parts</h3>
+    <ul>
+      <li>FrentEnd</li>
+      <li>BackEnd</li>
+      <li>Sql</li>
+    </ul>
+    <h1>Technologies Used For Full Stack Development</h1>
+    <table border="1">
+      <tr>
+        <td>Frontend</td>
+        <td>BackEnd</td>
+        <td>Databases</td>
+      </tr>
+      <tr>
+        <td>Html</td>
+        <td>java</td>
+        <td>Mongo DB</td>
+      </tr>
+      <tr>
+        <td>CSS</td>
+        <td>Python</td>
+        <td>My SQL</td>
+      </tr>
+      <tr>
+        <td>javaScript</td>
+        <td>node.js</td>
+        <td>AWS</td>
+      </tr>
+    </table>
+    <hr />
+    <center>
+      <p>
+        <a href="register.html">Register for the course | </a
+        ><a href="https://leetcode.com/u/Dhanaseelan_v_2003/">leetcode | </a
+        ><a href="https://github.com/dashboard">Github</a>
+      </p>
+    </center>
+  </body>
+</html>
+
+
+10,reestar css part
+
+
+
+*{
+    background-color: rgb(243, 243, 178);
+}
+li:hover{
+    color: white;
+}
+.header{
+    text-align: center;
+}
+ul,li,h1{
+    display: inline-block;
+}
+ul{
+    text-align: center;
+    margin-top: 20px;
+}
+li{
+  cursor: pointer;
+  color: gray;  
+}
+.produts{
+    background-color: white;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+}
+.fruits{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.meals{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.noodles{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.parota{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 60px;
+}
+.contact{
+    text-align: center;
+}
+p{
+    padding-top: 40px;
+}
+
+10b,reestar html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header"><center><nav><h1>Reestar</h1></nav></center>
+    <ul>
+        <center>
+        <li>Home |</li>
+        <li> Register | </li>
+        <li> Contect </li>
+        </center>
+    </ul>
+</div>
+<div class="products">
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\fruits1.jpg" height="250px" width="250px">
+        <p>Lorem ipsum dolor sit.</p>
+        <center>   <button type="button" onclick="alert('Added your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="noodles">
+        <img src="C:\Users\HP\Downloads\noodles1.jpg"  height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p></center>
+        <center>   <button type="button" onclick="alert('Added your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\meals1.jpg" height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p>
+            </center>
+            <center>   <button type="button" onclick="alert('Added Your item')">Click Me!</button>
+</center>
+    </div>
+    <div class="fruits">
+        <img src="C:\Users\HP\Downloads\parota1.jpg"  height="250px" width="250px">
+        <center><p>Lorem ipsum dolor sit.</p></center>
+        <center>   <button type="button" onclick="alert('Added Your item')">Click Me!</button>
+</center>
+    </div>
+</div>
+ <div class="contact">
+    <center><h1>contact</h1> <br>
+        <tr>
+    
+        <td>Name: </td> <td><input type="text" placeholder="Name"></td><br><br>
+        <td>Age : </td> <td><input type="number" placeholder="Age"></td> <br><br>
+        <td>Email : </td><td><input type="text" placeholder="Email"></td> <br><br>
+   <button type="button" onclick="alert('Submitted Successfully')">Click Me!</button>
+    </center>
+    </form>
+</div>
+</body>
+</html>
+11, position 
+
+<style>
+    .one{
+        background-color: red;
+        width: 100px;
+        height: 100px;
+        position: static;
+        margin: 5px;
+    }
+    .two{
+        background-color: black;
+        width: 100px;
+        height: 100px;
+        position: relative;
+        left: 10px;
+        top: 30px;
+        margin: 5px;
+    }
+    .three{
+        background-color: yellow;
+        width: 100px;
+        height: 100px;
+        position: static;
+        margin: 5px;
+    }
+</style>
+<div class="one"></div>
+<div class="two"></div>
+<div class="three"></div>
+
+12, 
+<style>
+    .one{
+        background-color: red;
+        width: 100px;
+        height: 100px;
+        position: static;
+        margin: 5px;
+    }
+    .two{
+        background-color: black;
+        width: 100px;
+        height: 100px;
+        position: relative;
+        left: 50px;
+        top: 50px;
+        margin: 5px;
+        z-index: 12;
+    }
+    .three{
+        background-color: yellow;
+        width: 100px;
+        height: 100px;
+        position: relative;
+        margin: 5x;
+        z-index: 2;
+    }
+</style>
+<div class="one"></div>
+<div class="two"></div>
+<div class="three"></div>
+
+13,
+
+<style>
+    .card{
+        border: solid red 2px;
+        background: black;
+        color: white;
+        margin:40px;
+        height: 55px;
+        width: 600px;
+    }
+    h1{
+        position: absolute;
+        left: 60px;
+    }
+</style>
+<div class="card">
+<h1>hello</h1>
+</div>
+
+<style>
+h1{
+    position: sticky;
+   top: 20px;
+}
+</style>
+<div>
+<p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores sint temporibus porro voluptas quidem! Ipsum fugiat earum, aut numquam provident vel sequi mollitia est labore nulla, porro reprehenderit beatae quisquam totam repudiandae possimus. Illo sed odit aut dolor a mollitia, veniam nobis quia itaque? Ipsam commodi nisi repudiandae nobis voluptatum ab ut labore repellendus et, aliquid nulla doloremque, perspiciatis aliquam mollitia sapiente accusantium hic corrupti nihil harum voluptatem similique exercitationem sed. Deleniti dicta recusandae eaque dolorem velit nulla odio! Praesentium, ab tenetur commodi enim illo quibusdam ad laboriosam fugit laudantium quasi, nostrum expedita id dolores dignissimos ducimus aliquid nemo numquam amet omnis repellat doloremque beatae porro. Eveniet dolor dignissimos iusto praesentium. Blanditiis officiis esse rem sit nesciunt modi. Vitae amet quia nostrum cum numquam. Cumque animi voluptates ratione id neque deleniti sapiente, cum numquam voluptas facilis eaque, adipisci earum excepturi temporibus, recusandae deserunt! Reiciendis molestiae provident dolores odit est, ratione, obcaecati sapiente nulla illum sunt, quo voluptatibus eum quibusdam doloremque inventore rerum modi. Quas ut voluptas id quos excepturi numquam eos consectetur maiores fugit totam sunt harum tempora veniam eveniet deserunt ab iste deleniti, aliquid similique nemo, assumenda dolorem blanditiis cupiditate. Inventore nisi animi maxime nulla! Nemo blanditiis reiciendis tempore modi at repellendus voluptatum ipsam. Maiores est dicta dolor recusandae aut, nam nisi, voluptatum optio aliquid asperiores omnis ad qui accusamus adipisci quod. Quaerat dolores iste fugit, fugiat, quia cum unde aperiam modi veritatis incidunt illum ea natus ipsum inventore veniam quis harum velit alias provident omnis. Illo nulla mollitia voluptas! Cum, sed ipsa asperiores quos repellat ducimus laudantium. Incidunt commodi corrupti asperiores mollitia odit porro aspernatur adipisci dolores, pariatur eius. Totam, quo placeat quaerat, labore molestias tempore iste soluta nihil numquam laboriosam quisquam perspiciatis fugit minima tenetur itaque expedita illo maxime nisi est natus. Omnis, iure doloribus. Ab nobis nostrum repellat iusto dolores ipsa minima, aspernatur voluptatem error. Doloremque veritatis, dignissimos consectetur pariatur dicta et numquam inventore maxime blanditiis? Provident eius doloribus culpa error soluta eveniet, unde vel ipsa itaque quidem, fuga, tenetur dolorem? Minima voluptatem eum vitae impedit sapiente odit optio veniam beatae, placeat molestiae laudantium recusandae molestias nostrum quod! Nihil molestias, enim non eaque veniam inventore minima repudiandae ipsum, iste laborum atque eveniet deleniti vitae quibusdam odio commodi recusandae beatae quae placeat asperiores ad veritatis. Animi eaque nulla sit necessitatibus, magnam eum blanditiis soluta voluptates quas cupiditate suscipit neque tempora cumque mollitia rem veniam laborum esse explicabo quis nostrum. Vitae molestiae <h1>hi</h1>nihil consequuntur ut fugit incidunt tenetur aliquam assumenda soluta ea quam, consectetur id officiis explicabo nostrum perspiciatis eum error. Soluta magni eveniet recusandae voluptatum, <h1>hi</h1>libero laudantium dolores laboriosam culpa iusto corporis, a repellendus? Reiciendis laborum voluptatem dicta laudantium accusantium praesentium, pariatur quia nemo doloribus possimus quae neque suscipit aliquid consectetur sint excepturi nam incidunt saepe deserunt eveniet ipsum iste voluptatum, repellat voluptates. Aliquam esse odit corrupti adipisci obcaecati repellat a quia dolores minima ipsam, dolorum voluptatum repudiandae quisquam eaque, ipsum autem qui provident tenetur. Laborum dolorem placeat et. Recusandae nam quo repudiandae at doloremque nostrum. Molestias, similique eos quisquam quaerat reiciendis deleniti quo tenetur eveniet dicta aperiam magnam quis expedita maxime, esse ipsum neque. Quam laudantium at cupiditate fuga similique doloribus, aperiam ratione? Exercitationem minima voluptate, est quae error similique delectus omnis ratione molestiae laboriosam, labore quis et unde numquam, corporis commodi officia consequatur sapiente fugit! Magni tempora dolor quasi amet eveniet quod velit molestias suscipit iste harum, dignissimos impedit dicta sint rerum? Voluptas eaque repudiandae aspernatur quam aperiam ratione quae, accusantium placeat quis officia obcaecati quo earum esse quas totam! Possimus, ex maiores vitae cumque atque consequatur autem blanditiis tenetur officia quos sit in accusantium, eius temporibus tempora perspiciatis iusto enim natus magnam ea non voluptatibus? Ipsa quibusdam placeat itaque voluptas delectus explicabo laboriosam soluta ad magnam consequatur quam perspiciatis vero aliquam ullam iste neque, possimus natus odio? Beatae esse, officia qui, ipsum optio consequatur, doloremque aliquam minus repellendus illum eaque perspiciatis doloribus molestias excepturi. Hic nam corporis culpa, quidem deserunt enim fuga repellat quisquam natus ipsa iure nemo libero dolor obcaecati? Fuga eveniet quaerat dolorum placeat quia aperiam cum, magni dolorem veritatis officiis modi vitae dignissimos minus. Voluptatem, a! Quia doloremque iusto commodi, dolor harum unde illo a, quisquam repudiandae quis ratione consequuntur? Culpa, non iusto facilis dignissimos, eligendi quia soluta recusandae aperiam aut eveniet quidem quae quasi. Est illum dolorem consequuntur libero voluptas minus exercitationem doloremque veritatis, doloribus provident quod aut et praesentium voluptate animi rem. Recusandae ut minima praesentium eos consectetur neque quidem maiores assumenda excepturi iusto, culpa perferendis, quas eius qui numquam tempora voluptate, inventore atque voluptas. Sed, omnis! Nihil exercitationem autem facere aut ea porro cumque veniam culpa. Nemo vel voluptates quisquam dolores provident cupiditate nulla a? Velit ratione, placeat nostrum fugiat reiciendis dolorem deleniti molestiae minus, neque vitae saepe, possimus rerum sit asperiores quam dignissimos repellat qui corrupti adipisci officiis molestias illum! Tenetur, consectetur et perferendis nobis excepturi consequuntur quae? Sed voluptatum perspiciatis facere voluptatibus incidunt consequatur ad voluptas mollitia voluptate molestiae cupiditate reprehenderit aliquam, perferendis autem. Incidunt mollitia voluptatem perspiciatis numquam rem temporibus nesciunt, quae quos corporis qui. Ad saepe quo quia ab sunt commodi sit asperiores id facere est, voluptates iure possimus rem dolore adipisci odit odio vero illo praesentium, inventore ullam. Odit molestias dicta aliquid architecto eveniet non dignissimos vel quis maiores adipisci accusamus id neque odio assumenda sapiente recusandae omnis praesentium provident, autem natus exercitationem facilis iure? Tempora quisquam velit mollitia quod asperiores, atque dolor maiores, porro aspernatur ipsa sit, cum laborum temporibus. Molestias ad, molestiae soluta eaque eos unde beatae voluptas, velit dolorum officiis quos rem ducimus numquam cupiditate, tempore totam. Voluptates expedita ea mollitia officia suscipit libero nam autem eos repellat asperiores. Qui sunt temporibus magni ipsum. Illum nihil aperiam laborum nesciunt. Voluptatum, dolorem quibusdam architecto totam eius velit, illo sint ducimus autem natus modi quidem? Corrupti ex vero ratione deleniti illo, sunt nesciunt voluptates nostrum exercitationem, voluptatem velit explicabo eos vel veritatis vitae rerum consequatur aspernatur possimus aperiam pariatur consequuntur similique, dicta recusandae ea. Numquam quos atque nesciunt sint similique ratione eveniet!
+</p>
+</div>
+
+<style>
+    h1{
+        position: fixed;
+        top: 50%;
+        left: 50%;
+    }
+</style>
+<div>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore optio eos at quod, commodi non perferendis itaque molestias nam maxime aliquid dolore blanditiis ab. Molestias aspernatur necessitatibus possimus tempore laboriosam eaque, accusantium deserunt est impedit ullam iste quis. Sint nihil tempora ea rem quibusdam ipsum neque. Architecto veritatis atque aspernatur voluptate consectetur veniam quaerat accusantium, officiis vel iure temporibus excepturi beatae facilis rem non ab incidunt eligendi voluptatem minima. Itaque, dolorem minus excepturi commodi repellat quo, sapiente repudiandae consequatur error velit dignissimos eos veniam eaque perspiciatis distinctio exercitationem dolor fuga blanditiis laboriosam placeat suscipit harum sunt aliquid. Rerum necessitatibus neque fuga eum atque eaque natus cumque sed, labore tempora voluptatem magni minus culpa recusandae ea eligendi corrupti iusto expedita quas unde voluptatibus, saepe ullam enim explicabo? Cupiditate eos illum, quos, asperiores impedit magnam eum perspiciatis soluta sit numquam rem dolorum repellendus quod voluptatum iusto deserunt optio repudiandae veritatis delectus magni culpa minima assumenda similique. Earum commodi ducimus sit iure quos aliquid, dicta eligendi atque blanditiis, omnis similique debitis voluptatibus ullam vel excepturi consequuntur quo tempora! Odio ad enim laudantium hic officia deleniti veniam! Veniam facilis maiores blanditiis laudantium quidem maxime! Exercitationem ab culpa dolores nulla aliquam corporis. Deserunt a animi tenetur! Excepturi quibusdam sunt adipisci illo explicabo aspernatur aperiam, cum dolore totam pariatur fugit ipsum voluptate labore dolorum. Aliquid magnam mollitia necessitatibus consequuntur veritatis unde. Dignissimos eligendi cum corporis et. Veritatis vel non dolor illo officiis, voluptatem sequi autem nam molestiae culpa iusto qui expedita nihil fugiat adipisci totam consequuntur mollitia facere aut numquam id? Debitis, ducimus sequi reiciendis voluptatem, eos vero quibusdam perspiciatis doloribus at enim quia harum optio! Placeat, possimus optio. Officiis eligendi, excepturi, recusandae laborum cumque asperiores numquam rerum vel rem natus, obcaecati distinctio hic? Iusto temporibus necessitatibus atque quia cupiditate animi qui, unde facilis, nemo, odit iure. Voluptatum, eius esse atque nemo deserunt omnis qui ipsum doloribus aspernatur tempore minima similique excepturi id architecto, dicta odio nesciunt iste eligendi sapiente. Libero eaque, inventore accusamus error temporibus corporis. Laborum laudantium incidunt facere recusandae eaque amet porro hic? Aut cumque blanditiis placeat animi autem labore ipsum ipsam, fugit fuga quasi, error eius quidem. Nobis consequatur accusamus at, minima deserunt quibusdam alias voluptas dolore. Porro et libero quibusdam sint consequatur possimus similique at totam corporis eligendi ipsa dolore accusantium nisi nostrum illum nam aliquam impedit odio nobis, harum iure architecto nulla exercitationem? Tempore voluptate nulla nostrum ab fugit. Recusandae inventore laboriosam eos at praesentium ad ducimus rem, nobis, ipsam earum quaerat eaque aliquam atque labore vitae obcaecati eius iste animi. Neque quaerat dolorum, quae asperiores consequatur voluptatem necessitatibus? Mollitia, cumque! Dicta beatae nostrum voluptate architecto, obcaecati quasi at atque, debitis pariatur nisi animi aspernatur accusantium. Delectus accusantium ut dolore earum ullam nam beatae ducimus expedita deleniti nostrum. Consequatur accusamus quo voluptatibus, doloribus eligendi, non earum eveniet expedita dicta excepturi accusantium, molestiae et! Voluptatibus enim facere velit sequi expedita earum architecto officia doloremque nostrum ad. Pariatur, at, maiores quo, numquam amet quia iusto animi consequatur quibusdam doloremque recusandae minima blanditiis necessitatibus. Neque non nisi ea? Vel quia est nostrum. Eius iste laborum corrupti eveniet facere ea rerum tempore et perferendis iure necessitatibus recusandae unde, est iusto excepturi reiciendis impedit. Ipsa, delectus. Cum animi adipisci id, amet quae, aliquid cupiditate dolores quaerat rerum mollitia quas molestiae. Eligendi at tempore est voluptate deserunt, <h1>One</h1>dolorem placeat esse temporibus nostrum porro aperiam, odio laudantium inventore magni. Maiores quod labore ex qui est, voluptatum, dolorum dolor unde harum nihil eum voluptatem! Eius dolorem distinctio accusamus, incidunt, molestiae velit porro at nulla pariatur optio quis ducimus laborum praesentium repudiandae nobis aspernatur reiciendis facilis maxime minima facere sequi rem blanditiis? Quis eligendi illum ut exercitationem voluptate optio distinctio cupiditate harum magni odio! Autem tempore eius, atque excepturi iste ipsam quidem aut minima eum dicta fugiat hic quo quasi saepe quia cupiditate sapiente porro voluptatum magnam voluptate unde magni nobis? Minima eum labore modi explicabo deserunt enim et nihil perspiciatis quis fuga? Earum, voluptatibus fugiat minus obcaecati animi quas velit quod, harum blanditiis repellat unde nihil voluptate assumenda dicta veritatis quidem quasi! Dolorum dignissimos quibusdam eaque eius corrupti voluptates odio hic atque quidem fuga, natus repellat. Eaque nulla animi quia voluptatum, mollitia culpa, vel placeat in commodi ab doloremque similique sed exercitationem ad laboriosam inventore minus libero quo. Accusantium est nesciunt, molestiae perspiciatis totam illum maiores minima reprehenderit, ut ea sed qui! Dicta aliquam fuga dolorum a itaque vitae, minus consequuntur quasi dolor tempore placeat harum distinctio animi recusandae impedit mollitia expedita porro ratione repudiandae? Molestias recusandae eaque, doloremque perferendis dolores nam corrupti neque consequuntur odio rerum vitae, soluta, earum ratione veniam fuga aliquam ullam a asperiores maxime ut fugiat obcaecati delectus. Cumque quidem accusamus expedita maiores harum voluptatibus dolorem fugit labore illo doloribus ad laborum est saepe quia et quisquam qui quasi blanditiis, laboriosam tempore. Aliquam atque voluptas sequi animi iusto ratione at soluta sed possimus qui. Consectetur cupiditate unde error, consequuntur eum in delectus vero a rem totam maxime reiciendis minima suscipit tempore, deserunt cum fugit esse dolores! Vero ducimus placeat cum perspiciatis itaque quia sed ipsa, expedita dolorem tempore nobis voluptatem reiciendis alias totam facilis culpa saepe vitae autem, beatae eveniet animi quidem ullam deserunt doloremque. Dolor consectetur, placeat quam hic debitis fugit voluptate nesciunt? Nostrum animi recusandae ut, corrupti nisi fuga quam minus fugiat sequi quia adipisci. Officia assumenda veritatis tempore eligendi porro, cum eos facere dignissimos temporibus! Eveniet a sequi minus accusantium magnam cupiditate dolore? Quas asperiores ipsum excepturi quam, blanditiis beatae sed possimus quis, eius, voluptate unde. Repellendus, corrupti in unde non exercitationem maxime reiciendis, error inventore iste ut labore alias ducimus temporibus perferendis quis, sequi qui sit! Est adipisci at assumenda quidem tenetur repudiandae, maiores, repellendus eum similique cum quibusdam rem nihil natus doloribus nisi ipsa quos ipsum vitae, unde nam. Maiores ipsam nostrum asperiores error nihil eius veniam rerum doloribus unde repellendus alias quasi incidunt aliquam magnam, nulla delectus nesciunt tenetur consequuntur! Fugit quae voluptatum nam quas iusto quasi, debitis, odio voluptate, libero atque alias nemo eius quisquam accusantium dignissimos.</p>
+</div>
+
+<style>
+    h3{
+        margin: 2px;
+        padding: 5px;
+        background-color: black;
+        color: white;
+    }
+ div{
+    display: flex;
+    flex-direction: row;
+    background-color: greenyellow;
+    padding: 10px;
+    width: 200px;
+    margin: 50px;
+    flex-wrap: wrap; /* insided elements are must present inside the greenbox */
+ }
+</style>
+
+<div>
+    <h3>one</h3>
+    <h3>Two</h3>
+    <h3>Three</h3>
+    <h3>Four</h3>
+    <h3>Five</h3>
+    <h3>Six</h3>
+     <h3>Seven</h3>
+      <h3>eight</h3>
+       <h3>nine</h3>
+        <h3>Ten</h3>
+         <h3>eleven</h3>
+          <h3>twevel</h3>
+</div>
+
+<style>
+    h3{
+        margin: 2px;
+        padding: 5px;
+        background-color: black;
+        color: white;
+    }
+ div{
+    display: flex;
+    flex-direction: row;
+    background-color: greenyellow;
+    padding: 10px;
+    flex-wrap: wrap; /* insided elements are must present inside the greenbox */
+    justify-content: space-between;
+ }
+</style>
+
+<div>
+    <h3>one</h3>
+    <h3>V.Dhanaseelan</h3>
+    <h3>Three</h3>
+    
+</div>
+
+----------------------------------------------------------------------------------------
+
+    .poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+font-family: "popines" , sans-serif;
+    background-color: darkmagenta;
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calender</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h3 class="titlebar">image Gallery</h3>
+        <div class="container">
+            <div>
+        <img src="C:\Users\HP\Downloads\google1.jpeg "height="100px" width="100px">
+        <h4>India</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+            </div>
+            <div>
+        <img src="C:\Users\HP\Downloads\google2.jpg "height="100px" width="100px">
+        <h4>Usa</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+             </div>
+        <div>
+ 
+        <img src="C:\Users\HP\Downloads\google4.jpg "height="100px" width="100px">
+        <h4>Austraila</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\google5.jpeg "height="100px" width="100px">
+        <h4>Dubai</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\google6.jpg "height="100px" width="100px">
+        <h4>Bengaluru</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+         
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\google7.jpeg "height="100px" width="100px">
+    <h4>hydrabhath</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, non!</p>
+             
+    </div>
+    <div>
+        <img src="C:\Users\HP\Downloads\google8.webp "height="100px" width="100px">
+    <h4>Russia</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, qui.</p>    
+    </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\noodles1.jpg" height="100px" width="100px">
+        <h4>noodles</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. culpa nesciunt!</p>
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\parota1.jpg" height="100px" width="100px">
+        <h4>parota</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, rem!</p>
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\fruits1.jpg" height="100px" width="100px">  
+        <h4>Fruits
+        </h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, pariatur?</p>  
+        </div>
+        <div>
+        <img src="C:\Users\HP\Downloads\meals1.jpg" height="100px" width="100px">  
+        <h4>meals</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, impedit.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------
+
